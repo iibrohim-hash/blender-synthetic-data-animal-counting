@@ -71,7 +71,7 @@ Below are example frames and annotations generated using this pipeline.
 
 The full paper describing the methodology, datasets, and experimental results:
 
-[Generating Synthetic Datasets to Train Deep Models for Counting in Large-Scale Animal Groups](ICMV25_Synthetic_datasets_for_animal_counting-3.pdf)
+[Generating Synthetic Datasets to Train Deep Models for Counting in Large-Scale Animal Groups](ICMV25_Synthetic_datasets_for_animal_counting.pdf)
 
 
 
