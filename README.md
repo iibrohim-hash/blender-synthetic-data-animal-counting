@@ -53,20 +53,25 @@ The same simulated sequence can be rendered under multiple viewpoints and densit
 Below are example frames and annotations generated using this pipeline.
 
 ### Fish School — Object Detection Annotations
-![Fish YOLO Annotations](images/fish_yolo_annotations.png)
+![Fish YOLO Annotations](images/fishAnnotated.png)
 
-### Fish School — Density Map Generation
-![Fish Density Heatmap](images/fish_density_heatmap.png)
+### Fish School — Synthetic Rendering
+![Fish Density Rendering](images/fishFrames.png)
 
 ### Bird Flock — Synthetic Rendering
-![Bird Flock Rendering](images/bird_flock_render.png)
+![Bird Flock Rendering](images/birdsFrames.png)
 
+### Deer — Synthetic Rendering
+![Deer Rendering](images/deerFrames.png)
 
-## 📄 Research Paper
+### Deer — Object Detection Annotations
+![Deer YOLO Annotations](images/deerAnnotated.png)
+
+##  Research Paper
 
 The full paper describing the methodology, datasets, and experimental results:
 
-[Generating Synthetic Datasets to Train Deep Models for Counting in Large-Scale Animal Groups](paper/Generating_Synthetic_Datasets_Animal_Counting.pdf)
+[Generating Synthetic Datasets to Train Deep Models for Counting in Large-Scale Animal Groups](ICMV25_Synthetic_datasets_for_animal_counting-3.pdf)
 
 
 
